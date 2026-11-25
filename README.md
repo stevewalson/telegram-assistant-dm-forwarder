@@ -8,7 +8,6 @@ Connected to your Telegram account via Secretary Mode, **DM Forwarder** watches 
 
 ## Features
 
-- **Secretary Mode Integration:** Listens to Telegram Business connection updates (`business_message`) in real time.
 - **Instant Forwarding:** Relays incoming text, media, and sender info directly to the owner.
 - **Self-Hosted & Minimal:** Fast, lightweight, and easy to run continuously in the background.
 
