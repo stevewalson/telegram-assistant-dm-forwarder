@@ -31,7 +31,7 @@ Connected to your Telegram account via Secretary Mode, **DM Forwarder** watches 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/stevewalson/telegram-assistant-dm-forwarder.git](https://github.com/stevewalson/telegram-assistant-dm-forwarder.git)
+   git clone https://github.com/stevewalson/telegram-assistant-dm-forwarder.git
    cd telegram-assistant-dm-forwarder
 
 From the project directory:
